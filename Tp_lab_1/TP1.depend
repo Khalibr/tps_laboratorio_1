@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1649784674 source:c:\users\santt\desktop\1er cuatri\programacion i\tp1\libreria.c
+	"libreria.h"
+
+1649784674 c:\users\santt\desktop\1er cuatri\programacion i\tp1\libreria.h
+
+1649785579 source:c:\users\santt\desktop\1er cuatri\programacion i\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
